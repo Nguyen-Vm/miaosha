@@ -1,7 +1,6 @@
 package com.miaoshaproject.dao;
 
 import com.miaoshaproject.dataobject.UserDO;
-import org.apache.ibatis.annotations.Mapper;
 
 public interface UserDOMapper {
     /**
