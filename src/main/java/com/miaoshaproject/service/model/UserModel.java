@@ -1,4 +1,4 @@
-package com.miaoshaproject.model;
+package com.miaoshaproject.service.model;
 
 /**
  * @author RWM

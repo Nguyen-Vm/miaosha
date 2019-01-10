@@ -1,6 +1,6 @@
 package com.miaoshaproject.service;
 
-import com.miaoshaproject.model.UserModel;
+import com.miaoshaproject.service.model.UserModel;
 
 /**
  * @author RWM
